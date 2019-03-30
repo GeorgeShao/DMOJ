@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a1a211c-11f9-44d9-94c9-fc5f161eaa0b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/DMOJ/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ/src/main/AMinusB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ/src/main/APlusB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ/src/main/Boolean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ/src/main/CCC_03_J1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ/src/main/CCC_04_J2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ/src/main/CCC_04_J3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ/src/main/CCC_06_J1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ/src/main/CCC_08_J2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ/src/main/CCC_09_S1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ/src/main/CCC_11_J1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ/src/main/CCC_11_J2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ/src/main/CCC_11_S2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ/src/main/CCC_12_J3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ/src/main/CCC_12_J4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ/src/main/CCC_12_S5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ/src/main/CCC_13_J1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ/src/main/CCC_13_J3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ/src/main/CCC_13_J4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ/src/main/CCC_14_J3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ/src/main/CCC_14_S3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ/src/main/CCC_15_J1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ/src/main/CCC_15_J2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ/src/main/CCC_15_J3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ/src/main/CCC_15_S1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ/src/main/CCC_16_J1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ/src/main/CCC_16_J2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ/src/main/CCC_16_J3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ/src/main/CCC_16_S2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ/src/main/CCC_17_J1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ/src/main/CCC_17_J2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ/src/main/CCC_17_J3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ/src/main/CCC_18_J1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ/src/main/CCC_18_J2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ/src/main/CCC_18_J3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ/src/main/CCC_19_J1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ/src/main/CCC_19_J2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ/src/main/DMOPC_14_C1_P2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ/src/main/DMOPC_14_C2_P4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ/src/main/DWITE_10_R1_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ/src/main/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ/src/main/ListMinimum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ/src/main/ListMinimumEasy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ/src/main/ListMinimumHard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ/src/main/RenAshbell.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ/src/main/Ship.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ/src/main/SixteenBitSWOnly.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ/src/main/UnevenSand.java" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/DMOJ$CCC_19_J1.coverage" NAME="CCC_19_J1 Coverage Results" MODIFIED="1553980861792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DMOJ-Python" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DMOJ-Python/CCC_19_J1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/DMOJ-Python/CCC_19_J1.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="180" />
+    <option name="y" value="-25" />
+    <option name="width" value="1275" />
+    <option name="height" value="920" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DMOJ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DMOJ" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DMOJ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DMOJ" type="462c0819:PsiDirectoryNode" />
+              <item name="DMOJ-Java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DMOJ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DMOJ" type="462c0819:PsiDirectoryNode" />
+              <item name="DMOJ-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DMOJ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DMOJ" type="462c0819:PsiDirectoryNode" />
+              <item name="DMOJ-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="CCC_19_J1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DMOJ" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DMOJ-Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DMOJ-Python/CCC_19_J1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.CCC_19_J1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a1a211c-11f9-44d9-94c9-fc5f161eaa0b" name="Default Changelist" comment="" />
+      <created>1553980623735</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553980623735</updated>
+      <workItem from="1553980625212" duration="201000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="201000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/DMOJ-Python/CCC_19_J1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
