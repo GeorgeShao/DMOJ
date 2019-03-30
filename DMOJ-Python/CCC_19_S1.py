@@ -1,3 +1,7 @@
+import sys
+
+input = sys.stdin.readline
+
 topleft = 1
 topright = 2
 bottomleft = 3
@@ -8,25 +12,26 @@ newtopright = 0
 newbottomleft = 0
 newbottomright = 0
 
-moves = str(input())
+moves = input()
 
 for i in range(len(moves)):
+    # flip over x axis
     if moves[i] == "H":
         newtopleft = bottomleft
         newbottomleft = topleft
         newtopright = bottomright
         newbottomright = topright
-
+    # flip over y axis
     elif moves[i] == "V":
-        newtopleft = bottomleft
-        newbottomleft = topleft
-        newtopright = bottomright
-        newbottomright = topright
+        newtopleft = topright
+        newbottomleft = bottomright
+        newtopright = topleft
+        newbottomright = bottomleft
 
-topleft = newtopleft
-topright = newtopright
-bottomleft = newbottomleft
-bottomright = newbottomright
+    topleft = newtopleft
+    topright = newtopright
+    bottomleft = newbottomleft
+    bottomright = newbottomright
 
 print(topleft, topright)
 print(bottomleft, bottomright)
