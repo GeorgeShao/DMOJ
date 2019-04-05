@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a1a211c-11f9-44d9-94c9-fc5f161eaa0b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/DMOJ.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DMOJ.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DMOJ-Java/src/main/CCC_19_J3.java" beforeDir="false" afterPath="$PROJECT_DIR$/DMOJ-Java/src/main/CCC_19_J3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DMOJ-Java/src/main/CCC_19_S1.java" beforeDir="false" afterPath="$PROJECT_DIR$/DMOJ-Java/src/main/CCC_19_S1.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,25 +12,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/DMOJ$CCC_19_J1.coverage" NAME="CCC_19_J1 Coverage Results" MODIFIED="1554426974032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DMOJ-Python" />
-    <SUITE FILE_PATH="coverage/DMOJ$MockCCC19Contest2J1.coverage" NAME="MockCCC19Contest2J1 Coverage Results" MODIFIED="1554426984285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DMOJ-Python" />
-  </component>
   <component name="FavoritesManager">
     <favorites_list name="DMOJ" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DMOJ-Python/MockCCC19Contest2J1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -53,6 +39,7 @@
         <option value="$PROJECT_DIR$/DMOJ-Python/CCC_19_S1.py" />
         <option value="$PROJECT_DIR$/DMOJ-Java/src/main/MockCCC19Contest2J1.java" />
         <option value="$PROJECT_DIR$/DMOJ-Python/MockCCC19Contest2J1.py" />
+        <option value="$PROJECT_DIR$/DMOJ-Java/src/main/AMinusB.java" />
       </list>
     </option>
   </component>
@@ -71,33 +58,18 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="DMOJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DMOJ" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DMOJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DMOJ" type="462c0819:PsiDirectoryNode" />
-              <item name="DMOJ-Python" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554425885049" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554427447259" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -111,7 +83,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.MockCCC19Contest2J1">
+  <component name="RunManager">
     <configuration name="CCC_19_J1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DMOJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -156,12 +128,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.MockCCC19Contest2J1" />
-        <item itemvalue="Python.CCC_19_J1" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -182,18 +148,19 @@
       <workItem from="1554222183966" duration="18000" />
       <workItem from="1554425322294" duration="560000" />
       <workItem from="1554426002691" duration="180000" />
-      <workItem from="1554426825914" duration="416000" />
+      <workItem from="1554426825914" duration="449000" />
+      <workItem from="1554427304173" duration="142000" />
+      <workItem from="1554427466865" duration="51000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4732000" />
+    <option name="totallyTimeSpent" value="4958000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.2751678" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.22348994" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.50139666" side_tool="true" weight="0.2671141" />
       <window_info id="Designer" order="3" />
@@ -202,7 +169,7 @@
       <window_info id="UI Designer" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32960895" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32960895" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -295,6 +262,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DMOJ-Java/src/main/AMinusB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DMOJ-Java/src/main/APlusB.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DMOJ-Java/src/main/CCC_06_J1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
         </state>
       </provider>
     </entry>
