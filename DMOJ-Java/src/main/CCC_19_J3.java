@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Main {
+public class CCC_19_J3 {
     public static void main(String [] args) {
         Scanner input = new Scanner(System.in);
 
