@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a1a211c-11f9-44d9-94c9-fc5f161eaa0b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/DMOJ.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DMOJ.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,7 +14,7 @@
     <favorites_list name="DMOJ" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -83,7 +81,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.CCC_19_J1">
     <configuration name="CCC_19_J1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DMOJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -151,16 +149,19 @@
       <workItem from="1554426825914" duration="449000" />
       <workItem from="1554427304173" duration="142000" />
       <workItem from="1554427466865" duration="51000" />
+      <workItem from="1554489573745" duration="683000" />
+      <workItem from="1554490592426" duration="13000" />
+      <workItem from="1554490767646" duration="44000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4958000" />
+    <option name="totallyTimeSpent" value="5698000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.22348994" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.23355705" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.50139666" side_tool="true" weight="0.2671141" />
       <window_info id="Designer" order="3" />
