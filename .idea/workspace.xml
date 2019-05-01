@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a1a211c-11f9-44d9-94c9-fc5f161eaa0b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/DMOJ.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DMOJ.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,7 +16,17 @@
     <favorites_list name="DMOJ" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DMOJ-Python/DMPG_18_B2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -38,6 +50,7 @@
         <option value="$PROJECT_DIR$/DMOJ-Java/src/main/MockCCC19Contest2J1.java" />
         <option value="$PROJECT_DIR$/DMOJ-Python/MockCCC19Contest2J1.py" />
         <option value="$PROJECT_DIR$/DMOJ-Java/src/main/AMinusB.java" />
+        <option value="$PROJECT_DIR$/DMOJ-Python/DMPG_18_B2.py" />
       </list>
     </option>
   </component>
@@ -55,19 +68,35 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DMOJ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DMOJ" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DMOJ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DMOJ" type="462c0819:PsiDirectoryNode" />
+              <item name="DMOJ-Python" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554427447259" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -81,7 +110,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.CCC_19_J1">
+  <component name="RunManager" selected="Python.DMPG_18_B2">
     <configuration name="CCC_19_J1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DMOJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -96,6 +125,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DMOJ-Python/CCC_19_J1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DMPG_18_B2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DMOJ" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DMOJ-Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DMOJ-Python/DMPG_18_B2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,6 +177,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.DMPG_18_B2" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -152,16 +208,18 @@
       <workItem from="1554489573745" duration="683000" />
       <workItem from="1554490592426" duration="13000" />
       <workItem from="1554490767646" duration="44000" />
+      <workItem from="1556678785083" duration="166000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5698000" />
+    <option name="totallyTimeSpent" value="5864000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.23355705" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.23659517" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.50139666" side_tool="true" weight="0.2671141" />
       <window_info id="Designer" order="3" />
@@ -195,6 +253,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DMOJ$DMPG_18_B2.coverage" NAME="DMPG_18_B2 Coverage Results" MODIFIED="1556679071767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DMOJ-Python" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/DMOJ-Java/src/main/CCC_19_J3.java">
@@ -280,6 +341,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DMOJ-Python/DMPG_18_B2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
         </state>
       </provider>
     </entry>
