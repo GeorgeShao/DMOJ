@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a1a211c-11f9-44d9-94c9-fc5f161eaa0b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DMOJ-Python/CCC_05_S1.py" beforeDir="false" afterPath="$PROJECT_DIR$/DMOJ-Python/CCC_05_S1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,20 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DMOJ-Python/CCC_03_S1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DMOJ-Python/CCC_05_S1.py">
+        <entry file="file://$PROJECT_DIR$/DMOJ-Python/CCC_07_S1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="38" column="16" lean-forward="true" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+            <state relative-caret-position="195">
+              <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -62,6 +53,7 @@
         <option value="$PROJECT_DIR$/CCC_03_S1.py" />
         <option value="$PROJECT_DIR$/DMOJ-Python/CCC_03_S1.py" />
         <option value="$PROJECT_DIR$/DMOJ-Python/CCC_05_S1.py" />
+        <option value="$PROJECT_DIR$/DMOJ-Python/CCC_07_S1.py" />
       </list>
     </option>
   </component>
@@ -121,7 +113,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.CCC_05_S1">
+  <component name="RunManager" selected="Python.CCC_07_S1">
     <configuration name="CCC_02_S1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DMOJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -210,7 +202,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="DMPG_18_B2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="CCC_07_S1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DMOJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -223,7 +215,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DMOJ-Python/DMPG_18_B2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DMOJ-Python/CCC_07_S1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -234,11 +226,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.CCC_07_S1" />
         <item itemvalue="Python.CCC_05_S1" />
         <item itemvalue="Python.CCC_03_S1 (1)" />
         <item itemvalue="Python.CCC_03_S1" />
         <item itemvalue="Python.CCC_02_S1" />
-        <item itemvalue="Python.DMPG_18_B2" />
       </list>
     </recent_temporary>
   </component>
@@ -271,12 +263,12 @@
       <workItem from="1556729369624" duration="6000" />
       <workItem from="1557369056876" duration="3004000" />
       <workItem from="1557419240107" duration="4000" />
-      <workItem from="1557437502322" duration="1061000" />
+      <workItem from="1557437502322" duration="2038000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10651000" />
+    <option name="totallyTimeSpent" value="11628000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
@@ -320,6 +312,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DMOJ$DMPG_18_B2.coverage" NAME="DMPG_18_B2 Coverage Results" MODIFIED="1557369324606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DMOJ-Python" />
     <SUITE FILE_PATH="coverage/DMOJ$CCC_03_S1.coverage" NAME="CCC_03_S1 Coverage Results" MODIFIED="1557371576327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DMOJ$CCC_07_S1.coverage" NAME="CCC_07_S1 Coverage Results" MODIFIED="1557439378758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DMOJ-Python" />
     <SUITE FILE_PATH="coverage/DMOJ$CCC_02_S1.coverage" NAME="CCC_02_S1 Coverage Results" MODIFIED="1557370521686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DMOJ-Python" />
     <SUITE FILE_PATH="coverage/DMOJ$CCC_03_S1__1_.coverage" NAME="CCC_03_S1 (1) Coverage Results" MODIFIED="1557438261016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DMOJ-Python" />
     <SUITE FILE_PATH="coverage/DMOJ$CCC_05_S1.coverage" NAME="CCC_05_S1 Coverage Results" MODIFIED="1557438661521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DMOJ-Python" />
@@ -390,13 +383,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DMOJ-Python/CCC_02_S1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DMOJ-Python/CCC_19_J1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -411,13 +397,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DMOJ-Python/DMPG_18_B2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CCC_03_S1.py" />
     <entry file="file://$PROJECT_DIR$/DMOJ-Python/CCC_19_S1.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -428,15 +407,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DMOJ-Python/CCC_03_S1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DMOJ-Python/CCC_05_S1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="38" column="16" lean-forward="true" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+        <state relative-caret-position="-312">
+          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DMOJ-Python/CCC_02_S1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DMOJ-Python/DMPG_18_B2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DMOJ-Python/CCC_07_S1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
         </state>
       </provider>
     </entry>
