@@ -1,3 +1,7 @@
+# Not Working
+
+import sys
+
 dist = int(input())
 num_dist = int(input())
 dists = [None] * num_dist
@@ -15,7 +19,7 @@ def return_left(left):
     for distance in dists:
         if min(dists) > left:
             print("Roberta acknowledges defeat.")
-            exit()
+            sys.exit(0)
         if distance == left:  
             return distance
         if distance < left:
