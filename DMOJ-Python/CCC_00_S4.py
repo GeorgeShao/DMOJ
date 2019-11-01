@@ -1,32 +1,26 @@
-# Not Working
-
 import sys
 
-dist = int(input())
-num_dist = int(input())
-dists = [None] * num_dist
+distance = int(sys.stdin.readline())
+num_strokes = int(sys.stdin.readline())
 
-for i in range(num_dist):
-    dists[i] = int(input())
+stroke_dists = []
+stroke_costs = [0] + [False] * (distance)
 
-dists.sort()
+for i in range(num_strokes):
+    stroke_dists.append(int(sys.stdin.readline()))
 
-strokes = 1
+for i in range(1, distance+1):
+    new_costs = []
+    for j in stroke_dists:
+        if j <= i:
+            if stroke_costs[i-j] is not False:
+                new_costs.append(stroke_costs[i-j] + 1)
+    if new_costs:
+        stroke_costs[i] = min(new_costs)
+    else:
+        stroke_costs[i] = False
 
-def return_left(left):
-    global strokes, dists
-    flag = None
-    for distance in dists:
-        if min(dists) > left:
-            print("Roberta acknowledges defeat.")
-            sys.exit(0)
-        if distance == left:  
-            return distance
-        if distance < left:
-            flag = distance
-    temp_distance = round(left - flag)
-    strokes += 1
-    return [flag] + [return_left(temp_distance)]
-
-return_left(dist)
-print(f"Roberta wins in {strokes} strokes.")
+if stroke_costs[distance]:
+    print(f"Roberta wins in {stroke_costs[distance]} strokes.")
+else:
+    print("Roberta acknowledges defeat.")
