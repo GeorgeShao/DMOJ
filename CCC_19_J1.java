@@ -1,8 +1,9 @@
 package main;
+import java.io.IOException;
 import java.util.*;
 
 public class CCC_19_J1 {
-	public static void main(String [] args) {
+	public static void main(String [] args) throws IOException{
 		Scanner input = new Scanner(System.in);
 		
 		int a = input.nextInt();
