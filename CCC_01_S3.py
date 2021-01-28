@@ -1,13 +1,7 @@
 import sys
 
-# graph = {'A': set(['B', 'C']),
-# 'B': set(['A', 'D', 'E']),
-# 'C': set(['A', 'F']),
-# 'D': set(['B']),
-# 'E': set(['B', 'F']),
-# 'F': set(['C', 'E'])}
-
 graph = {}
+keys = set()
 
 inp = ""
 
@@ -16,6 +10,8 @@ while True:
     if inp != "**":
         first = inp[0]
         second = inp[1]
+        keys.add(first)
+        keys.add(second)
 
         try:
             new_set = graph[first]
@@ -33,8 +29,6 @@ while True:
     else:
         break
 
-# bfs_paths() - lists all possible paths from start to end point, returns shortest path first
-
 def bfs_paths(graph, start, goal):
     queue = [(start, [start])]
     while queue:
@@ -47,9 +41,20 @@ def bfs_paths(graph, start, goal):
 
 routes = list(bfs_paths(graph, 'A', 'B'))
 
-print(routes) # [['A', 'C', 'F'], ['A', 'B', 'E', 'F']]
+stringed_routes = []
 
 for i in range(len(routes)):
-    temp = "".join(routes[i])
-    print(temp)
+    stringed_routes.append("".join(routes[i]))
 
+count = 0
+
+for key_a in keys:
+    for key_b in keys:
+        for route in stringed_routes:
+            if not str(key_a) + str(key_b) in route:
+                break
+        else:
+            print(key_a + key_b)
+            count += 1
+
+print(f"There are {count} disconnecting roads.")
