@@ -45,4 +45,11 @@ def bfs_paths(graph, start, goal):
             else:
                 queue.append((next, path + [next]))
 
-print(list(bfs_paths(graph, 'A', 'B'))) # [['A', 'C', 'F'], ['A', 'B', 'E', 'F']]
+routes = list(bfs_paths(graph, 'A', 'B'))
+
+print(routes) # [['A', 'C', 'F'], ['A', 'B', 'E', 'F']]
+
+for i in range(len(routes)):
+    temp = "".join(routes[i])
+    print(temp)
+
