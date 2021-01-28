@@ -16,12 +16,20 @@ while True:
     if inp != "**":
         first = inp[0]
         second = inp[1]
+
         try:
             new_set = graph[first]
         except:
             new_set = set()
         new_set.add(second)
         graph[first] = new_set
+
+        try:
+            new_set = graph[second]
+        except:
+            new_set = set()
+        new_set.add(first)
+        graph[second] = new_set
     else:
         break
 
