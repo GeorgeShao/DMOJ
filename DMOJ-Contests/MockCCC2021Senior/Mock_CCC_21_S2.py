@@ -12,7 +12,7 @@ def printSubSequences(STR, subSTR=""):
     printSubSequences(STR[:-1], subSTR)
     return
 
-word = input()
+word = str(sys.stdin.readline().replace("/n", "").strip())
 
 printSubSequences(word)
 
