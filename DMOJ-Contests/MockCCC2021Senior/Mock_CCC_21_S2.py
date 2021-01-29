@@ -1,3 +1,7 @@
+# NOT FAST ENOUGH
+
+import sys
+
 substrings = []
 
 def printSubSequences(STR, subSTR=""):
@@ -15,9 +19,12 @@ printSubSequences(word)
 count = 0
 
 for substring in substrings:
-    for char in substring:
-        if substring.count(char) > 1:
+    d = {}
+    for c in substring:
+        if c in d:
             break
+        else:
+            d[c] = 1
     else:
         count += 1
 
