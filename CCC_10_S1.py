@@ -1,5 +1,3 @@
-# NOT WORKING
-
 import sys
 
 computers = int(sys.stdin.readline())
