@@ -1,4 +1,4 @@
-# NOT FAST ENOUGH
+# NOT WORKING (WORKING BUT TOO SLOW)
 
 import sys
 
