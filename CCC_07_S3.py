@@ -1,3 +1,5 @@
+# NOT WORKING (ONLY PARTIALLY WORKING, 1/4 TEST CASES PASSED)
+
 from sys import stdin
 
 num_pairs = int(stdin.readline().replace('\n', ''))
@@ -45,8 +47,6 @@ while True:
 
     first_paths_all = list(bfs_paths(graph, first, second))
     second_paths_all = list(bfs_paths(graph, second, first))
-
-    print(first_paths_all, second_paths_all, bool(first_paths_all), bool(second_paths_all))
 
     if bool(first_paths_all):
         if bool(second_paths_all):
