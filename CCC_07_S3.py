@@ -43,16 +43,20 @@ while True:
     if first == 0 and second == 0:
         break
 
-    # first_paths_all = bfs_paths(graph, first, second)
-    # second_paths_all = bfs_paths(graph, second, first)
+    first_paths_all = list(bfs_paths(graph, first, second))
+    second_paths_all = list(bfs_paths(graph, second, first))
 
-    first_path = shortest_path(graph, first, second)
-    second_path = shortest_path(graph, second, first)
+    print(first_paths_all, second_paths_all, bool(first_paths_all), bool(second_paths_all))
 
-    if bool(first_path) and bool(second_path):
-        if len(first_path) <= len(second_path):
-            print(f'Yes {len(first_path)-2}')
+    if bool(first_paths_all):
+        if bool(second_paths_all):
+            first_path = shortest_path(graph, first, second)
+            second_path = shortest_path(graph, second, first)
+            if len(first_path) <= len(second_path):
+                print(f'Yes {len(first_path)-2}')
+            else:
+                print(f'Yes {len(second_path)-2}')
         else:
-            print(f'Yes {len(second_path)-2}')
+            print('No')
     else:
         print('No')
